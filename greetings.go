@@ -6,11 +6,6 @@ import (
 	"time"
 )
 
-type Node struct {
-	Value int
-	Next  *Node
-}
-
 func test() {
 	start := time.Now()
 
