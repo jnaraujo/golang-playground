@@ -5,7 +5,11 @@ import (
 	"time"
 )
 
-func main() {
+func main(){
+	fibo()
+}
+
+func fibo() {
 	fmt.Println("Quantas casas de Fibonacci você quer ver?")
 
 	var n0 int;
