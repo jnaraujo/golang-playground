@@ -1,5 +1,3 @@
-module example/hello
+module jnaraujo.com/testmod
 
 go 1.19
-
-require rogchap.com/v8go v0.7.0
